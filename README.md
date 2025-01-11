@@ -13,6 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60" height="60" alt="C"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60" alt="linux"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60" alt="linux"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="linux"></img>
 </div>
 <br>
 
