@@ -16,5 +16,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="linux"></img>
 </div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maholmlund&layout=compact)]()
